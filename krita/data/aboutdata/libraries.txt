@@ -1,3 +1,4 @@
+AppImageKit,https://appimage.org/,MIT
 Boost,https://www.boost.org,Boost Software License - Version 1.0
 DrMingw,https://github.com/jrfonseca/drmingw,LGPLv2.1
 Eigen3,http://eigen.tuxfamily.org,MPL2
